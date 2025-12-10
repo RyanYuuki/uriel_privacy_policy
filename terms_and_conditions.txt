@@ -1,0 +1,30 @@
+TERMS AND CONDITIONS
+
+Last updated: [insert date]
+
+These Terms and Conditions govern the use of Uriel (“the App”). By using the App, you agree to these Terms.
+
+Use of the App
+Uriel allows users to create and manage personal lists of anime, movies, and series. The App is intended for all ages. You agree to use the App lawfully and responsibly.
+
+User Content
+All data added by the user—such as lists, progress, and profile details—remains stored locally. The App does not upload user content unless you use external backup services.
+
+Intellectual Property
+All design elements, branding, and features of the App belong to the developer. You may not copy or distribute them without permission.
+
+Permissions
+By using the App, you grant access to necessary permissions for selecting profile images, storing data, and using internet-based services.
+
+Third-Party Services
+The App uses Firebase for analytics and crash reporting. Use of the App signifies acceptance of Firebase’s terms and privacy practices.
+
+Limitation of Liability
+The App is provided “as is” without warranties. The developer is not responsible for data loss, device issues, or damages arising from use of the App.
+
+Modification of Terms
+These Terms may be updated at any time. Continued use of the App constitutes acceptance of the updated Terms.
+
+Contact Information
+rehank220358@gmail.com
+irfan31331@gmail.com
